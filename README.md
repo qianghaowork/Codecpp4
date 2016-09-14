@@ -1,4 +1,4 @@
-##Print Pretty
+##(1).Print Pretty
 Your manager gave you a text file with many lines of numbers to format and print. For each row of 3 space-separated doubles, format and print the numbers using the specifications in the Output Format section below.
 
 Input Format
