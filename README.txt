@@ -1,4 +1,4 @@
-(1). Print Pretty
+##(1). Print Pretty
 Your manager gave you a text file with many lines of numbers to format and print. For each row of 3 space-separated doubles, format and print the numbers using the specifications in the Output Format section below.
 
 Input Format
@@ -36,7 +36,7 @@ Explanation
 For the first line of output, (100) 10 -> (64)16 (in reverse,6*16 + 4*16(0) = (100) 10 ).
 The second and third lines of output are formatted as described in the Output Format section.
 
-(2). Preprocessor Solution
+##(2). Preprocessor Solution
 
 You're spending your afternoon at a local school, teaching kids how to code. You give them a simple task: find the difference between the maximum and minimum values in an array of integers.
 
@@ -70,7 +70,7 @@ Result = 486
 Explanation
 332 - (-154) = 486
 
-(3). Inherited Code
+##(3). Inherited Code
 
 You inherited a piece of code that performs username validation for your company's website. The existing function works reasonably well, but it throws an exception when the username is too short. Upon review, you realize that nobody ever defined the exception.
 
@@ -109,7 +109,7 @@ Username Me is too short because it only contains 2 characters, so your exceptio
 Too short: 2.
 All other validation is handled by the locked code in your editor.
 
-(4).Exceptional Server
+##(4).Exceptional Server
 
 Your friend set up a small computational server that performs complex calculations.
 It has a function that takes 2 large numbers as its input and returns a numeric result. Unfortunately, there are various exceptions that may occur during execution.
@@ -152,7 +152,7 @@ Explanation
 See the implementation of the compute function.
 2 is the server load. 
 
-(5) Magic Spells
+##(5) Magic Spells
 
 You are battling a powerful dark wizard. He casts his spells from a distance, giving you only a few seconds to react and conjure your counterspells. For a counterspell to be effective, you must first identify what kind of spell you are dealing with.
 
@@ -193,7 +193,7 @@ Explanation
 Fireball and Frostbite are common spell types.
 AquaVitae is not, and when you compare it with AruTaVae in your spell journal, you get a sequence: AuaVae
 
-(6) C++ Class Template Specialization
+##(6) C++ Class Template Specialization
 
 You are given a main function which reads the enumeration values for two different types as input, then prints out the corresponding enumeration names. Write a class template that can provide the names of the enumeration values for both types. If the enumeration value is not valid, then print unknown.
 
